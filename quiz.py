@@ -31,7 +31,7 @@ class Quiz:
             #TODO fiks
         self.stilteSpørsmål.append(indeks)
         return self.spørsmål[indeks]
-#jadjadajdajadjad
+
 
     def stillSpørsmål(self, spørsmål) -> int: 
             """ printer en liste med spørsmålet og returnerer indeksen til riktig svar"""
